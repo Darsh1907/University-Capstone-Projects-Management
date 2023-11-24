@@ -1,0 +1,57 @@
+credentials:
+  usernames:
+    pes2ug20cs000:
+      name: Sample
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Student
+    pes2ug21cs150:
+      name: Darsh Patel
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Student
+    pes2ug21cs118:
+      name: Tirth Bhalodiya
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Student
+    pes2ug21cs239:
+      name: Krisha Patel
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Student
+    pes2ug21cs176:
+      name: Gautam Panday
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Student
+    pes2ugcs164:
+      name: Dhyey Patel
+      password: $2b$12$HozN3nBzPbFvo8fqHAHdc.0tmFu0tXIqKMW/51WtUECTUcbfHvPZW # abc
+      type: Student
+    sample@gmail.com:
+      name: Sample Faculty
+      password: $2b$12$2ZdWdojH/FWnHeAz695cxOiFzX2KZlur0HCjx/Mekra8nE9c8Mh.i # 123
+      type: Faculty
+    nivedita@gmail.com:
+      name: Nivedita Kasturi
+      password: $2b$12$2ZdWdojH/FWnHeAz695cxOiFzX2KZlur0HCjx/Mekra8nE9c8Mh.i # 123
+      type: Faculty
+    alpha@gmail.com:
+      name: Alpha Vijayan
+      password: $2b$12$2ZdWdojH/FWnHeAz695cxOiFzX2KZlur0HCjx/Mekra8nE9c8Mh.i # 123
+      type: Faculty
+    sheela@gmail.com:
+      name: Sheela Devi
+      password: $2b$12$2ZdWdojH/FWnHeAz695cxOiFzX2KZlur0HCjx/Mekra8nE9c8Mh.i # 123
+      type: Faculty
+    sandesh@gmail.com:
+      name: Sandesh
+      password: $2b$12$2ZdWdojH/FWnHeAz695cxOiFzX2KZlur0HCjx/Mekra8nE9c8Mh.i # 123
+      type: Faculty
+    admin:
+      name: Admin
+      password: $2b$12$uKJRZsMPUOccgiung5sI4.SDKow7Eq/dUgCoMDCVAsGKGqnnvlFQK # 1
+      type: Admin
+cookie:
+  expiry_days: 1
+  key: darsh # Must be string
+  name: darsh
+preauthorized:
+  emails:
+  - melsby@gmail.com
